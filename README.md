@@ -1,1 +1,2 @@
-# tienda1
+### Tienda
+Trabajo asignado en Ing. Software
